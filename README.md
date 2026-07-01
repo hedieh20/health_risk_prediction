@@ -1,4 +1,4 @@
-# health_data_analysis
+# health_risk_prediction
 ## Overview
 A machine learning model that predicts cardiovascular disease based on health indicators.
 
